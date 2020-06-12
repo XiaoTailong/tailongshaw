@@ -1,8 +1,7 @@
 ## 肖太龙的个人主页
 
-You can use the [editor on GitHub](https://github.com/XiaoTailong/tailongshaw.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 肖太龙
+上海交通大学博士生
 
 ### Markdown
 

@@ -1,6 +1,8 @@
 ## 肖太龙
 上海交通大学博士生 <br>
-[Github](https://github.com/XiaoTailong) [知乎](https://www.zhihu.com/people/xiao-tai-long-16) [谷歌学术](https://scholar.google.com/citations?user=qo67_eUAAAAJ&hl=en) <br>
+我的[Github](https://github.com/XiaoTailong)主页<br>
+我的[知乎](https://www.zhihu.com/people/xiao-tai-long-16)主页 <br>
+我的[谷歌学术](https://scholar.google.com/citations?user=qo67_eUAAAAJ&hl=en) <br>
 邮箱：tailong_shaw@sjtu.edu.cn
 电话：+86 18601736021
 ### Markdown

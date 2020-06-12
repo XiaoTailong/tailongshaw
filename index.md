@@ -1,8 +1,8 @@
-## 肖太龙的个人主页
-
 ## 肖太龙
 上海交通大学博士生
-
+[Github](https://github.com/XiaoTailong) [知乎](https://www.zhihu.com/people/xiao-tai-long-16) [谷歌学术](https://scholar.google.com/citations?user=qo67_eUAAAAJ&hl=en)
+邮箱：tailong_shaw@sjtu.edu.cn
+电话：+86 18601736021
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

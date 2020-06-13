@@ -24,8 +24,8 @@
 本科期间的研究方向为[无线传感网络](https://baike.baidu.com/item/%E6%97%A0%E7%BA%BF%E4%BC%A0%E6%84%9F%E5%99%A8%E7%BD%91%E7%BB%9C/3794?fromtitle=%E6%97%A0%E7%BA%BF%E4%BC%A0%E6%84%9F%E7%BD%91%E7%BB%9C&fromid=7659076) (Wireless Sensor Network, WSN), 主要研究网络的数据链路层路由协议，并设计了一种节能的聚类算法，用于延长网络的生存周期并增强网络的鲁棒性。 后来，协助指导老师完成自然科学青年基金的研究内容部分。主要研究WSN的MAC与数据链路层的跨层优化，并结合机器学习算法考虑数据融合，数据增强等方面，延长网络的生存周期。 <br>
 
 ### 个人技能 (Skills)
-- [ ] 核心技能: C/C++, python, Matlab, Latex, Markdown, Mathmatica, SQL, etc.
-- [ ] 工作技能：能快速了解新领域的知识，具有良好的数学基础，具有一定的创新能力。
+-  核心技能: C/C++, python, Matlab, Latex, Markdown, Mathmatica, SQL, etc.
+-  工作技能：能快速了解新领域的知识，具有良好的数学基础，具有一定的创新能力。
 
 ### 项目经历 (Project Experiences)
 

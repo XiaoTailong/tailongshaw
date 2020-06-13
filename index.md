@@ -1,4 +1,4 @@
-### 肖太龙
+### 关于我
 上海交通大学博士生 (Shanghai Jiao Tong University, Ph.D candicate)<br>
 我的[Github](https://github.com/XiaoTailong)主页<br>
 我的[知乎](https://www.zhihu.com/people/xiao-tai-long-16)主页 <br>

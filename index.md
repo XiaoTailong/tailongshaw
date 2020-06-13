@@ -3,8 +3,9 @@
 我的[Github](https://github.com/XiaoTailong)主页<br>
 我的[知乎](https://www.zhihu.com/people/xiao-tai-long-16)主页 <br>
 我的[谷歌学术](https://scholar.google.com/citations?user=qo67_eUAAAAJ&hl=en) <br>
-邮箱：tailong_shaw@sjtu.edu.cn tailong.shaw@gmail.com
-电话：+86 18601736021
+邮箱：tailong_shaw@sjtu.edu.cn tailong.shaw@gmail.com <br>
+电话：+86 18601736021 <br>
+QQ: 2449734455
 
 ### 教育背景 (Educations)
 2014年9月-2018年6月，[中南大学](https://baike.baidu.com/item/%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6) 信息科学与技术学院 通信工程系 学士学位 <br>

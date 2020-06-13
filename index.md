@@ -1,38 +1,19 @@
-## 肖太龙
-上海交通大学博士生 <br>
+### 肖太龙
+上海交通大学博士生 (Shanghai Jiao Tong University, Ph.D candicate)<br>
 我的[Github](https://github.com/XiaoTailong)主页<br>
 我的[知乎](https://www.zhihu.com/people/xiao-tai-long-16)主页 <br>
 我的[谷歌学术](https://scholar.google.com/citations?user=qo67_eUAAAAJ&hl=en) <br>
-邮箱：tailong_shaw@sjtu.edu.cn
+邮箱：tailong_shaw@sjtu.edu.cn tailong.shaw@gmail.com
 电话：+86 18601736021
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 研究方向 (Reasearch Interests)
 
-# Header 1
-## Header 2
-### Header 3
+### 个人技能 (Skills)
 
-- Bulleted
-- List
+### 荣誉与奖励 (Honours and Awards)
 
-1. Numbered
-2. List
+### 发表论文 (Publication list)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XiaoTailong/tailongshaw.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

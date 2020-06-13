@@ -49,7 +49,7 @@
 
 3. Bai, Dongyun, Peng Huang, Yiqun Zhu, Hongxin Ma, **Tailong Xiao**, Tao Wang, and Guihua Zeng. "Unidimensional continuous-variable measurement-device-independent quantum key distribution." Quantum Information Processing 19, no. 2 (2020): 53.
 
-4. Qi, Huamei, et al. "A Robust and Energy-Efficient Weighted Clustering Algorithm on Mobile Ad Hoc Sensor Networks." Algorithms 11.8 (2018): 116. (**Corresponding author**)
+4. Qi, Huamei, Fengqi Liu, *Tailong Xiao*, and Jiang Su. "A Robust and Energy-Efficient Weighted Clustering Algorithm on Mobile Ad Hoc Sensor Networks." Algorithms 11, no. 8 (2018): 116. (**Corresponding author**)
 
 5. Qi, Huamei, **Tailong Xiao**, and Ying Guo. "Graph-Based Quantum Parallel Teleportation in Quantum Wireless Multi-Hop Networks." 2017 IEEE International Symposium on Parallel and Distributed Processing with Applications and 2017 IEEE International Conference on Ubiquitous Computing and Communications (ISPA/IUCC). IEEE, 2017.
 
